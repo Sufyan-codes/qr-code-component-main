@@ -9,7 +9,7 @@ justify-content: center;
 .container{
     display: block;
     margin-top: 50px;
-    min-height: 70vh;
+    height: 70vh;
     width: 280px;
     box-shadow: 1px 2px 28px 1px rgba(0, 0, 0, 0.1);
     border-radius: 20px;
@@ -45,8 +45,7 @@ p{
 }
  
 .attribution { 
-    margin-top: 100px;
-    font-size: 15px;
+    font-size: 12px;
     text-align: center;
     display: fixed;
     margin-bottom:0 ;
